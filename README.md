@@ -5,3 +5,4 @@
 
 1. Execution Context
 2. Lexical Environment
+3. Hoisting
